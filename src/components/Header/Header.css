@@ -1,0 +1,78 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.con-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-con img{
+    width: 150px;
+    height: 34.3px;
+}
+.text-con ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+}
+.text-con ul li{
+    font-family: Cera Pro;
+    font-size: 16px;
+    width: 76px;
+    height: 20px;
+    top: 33px;
+    left: 682px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6e6c6c;
+
+}
+.text-con ul li:hover{
+    color: black;
+    cursor: pointer;
+}
+.button-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.but-con{
+    width: 100px;
+    height: 35px;
+    border-radius: 6px;
+}
+.six-con{
+    position: relative;
+}
+.six-con div{
+    position: absolute;
+    top: -2px;
+    right: -5px;
+    width: 15px;
+    height: 15px;
+    border: 2px ;
+    background: #46A358;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+}
+.but-con{
+    position: relative;
+}
+.but-con button{
+    width: 100px;
+    height: 35px;
+    border-radius: 6px;
+    background-color: green;
+    color: white;
+    gap: 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
