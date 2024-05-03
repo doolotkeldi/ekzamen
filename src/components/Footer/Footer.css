@@ -1,0 +1,108 @@
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    width: 1200px;
+    margin: 0 auto; 
+}
+
+.divir {
+    width: 1200px;
+    height: 88px;
+    
+    
+    opacity: 0px;
+    background: rgba(70, 163, 88, 0.1);
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    gap: 70px;
+
+}
+
+/* .button-footer {
+    width: 350px;
+    height: 40px;
+} */
+
+.button-footer>input {
+    width: 290px;
+    height: 40px;
+    top: 3107px;
+    left: 941px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    color: rgba(172, 172, 172, 1);
+
+
+
+
+}
+
+.button-footer>button {
+    width: 78px;
+    height: 45px;
+    top: 3107px;
+    left: 1210px;
+    gap: 0px;
+    border-radius: 0px 6px 6px 0px;
+    opacity: 0px;
+    background: rgba(70, 163, 88, 1);
+
+
+}
+
+.logoF {
+    width: 150px;
+    height: 34.3px;
+    top: 3313px;
+    left: 143px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.divki>img {
+    width: 20px;
+    height: 20px;
+    top: 3320px;
+    left: 380px;
+    padding: 2.5px 3.75px 2.5px 3.75px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.divki {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Rectangle-39 {
+    width: 1200px;
+    height: 236px;
+    top: 3374px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+
+}
+
+
+
+.foote3>h3 {
+   display: flex;
+
+}
+
+.images-footer {
+    display: flex;
+    gap: 9px;
+}

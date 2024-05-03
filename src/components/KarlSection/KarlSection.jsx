@@ -1,6 +1,6 @@
 import React from 'react'
 
-function SectioonOne() {
+function KarlSection() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function SectioonOne() {
   )
 }
 
-export default SectioonOne
+export default KarlSection
