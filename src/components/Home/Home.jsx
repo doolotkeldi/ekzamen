@@ -1,10 +1,11 @@
 import React from 'react'
-import SectioonOne from '../SectionOne/SectioonOne'
+import DarkVariantExample from '../SectionOne/SectioonOne'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Home() {
   return (
     <div>
-      <SectioonOne/>
+      <DarkVariantExample/>
     </div>
   )
 }
