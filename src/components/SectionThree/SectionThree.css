@@ -1,0 +1,57 @@
+.tima-content>img{
+    width: 250px;
+    height: 250px;
+    
+}
+.tima-content{
+    width: 540px;
+    height: 250px;
+    border: 2px red solid;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+
+    
+}
+.tima-right{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    align-items: end;
+    gap: 10px;
+}
+.tima-right>h1{
+    font-family: Cera Pro;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 24px;
+    text-align: right;
+    
+
+    
+    
+}
+.tima-right>p{
+    font-family: Cera Pro;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: right;
+
+
+}
+.cnopka{
+    width: 140px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+ 
+}
+.tima-container{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
